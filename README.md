@@ -6,7 +6,7 @@ Versa Anti Cheat is beyond easier to use than MOSS and is more likely to detect 
 The Anti Cheat also comes with a discord bot to help create VAC Keys more efficiently!
 
 - Test it out Here: https://discord.gg/JVkjb3h5GW
-- Download the Anti Cheat Here: 
+- Download the Anti Cheat Here: https://www.mediafire.com/file/75oymy90sydmipy/Versa+Anti+Cheat.zip/file
 - Invite The Discord Bot Here: https://discord.com/api/oauth2/authorize?client_id=855161967957114923&permissions=8&scope=bot
 
 ![VAC5](https://user-images.githubusercontent.com/75189508/121789350-4274f100-cba3-11eb-8692-080de3d57df0.png)![VAC1](https://user-images.githubusercontent.com/75189508/121944647-dcae7380-cd20-11eb-952e-2584438fc987.png)
